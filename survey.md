@@ -1,4 +1,4 @@
-Favorite color: blue
+Favorite color: green 
 Favorite food: pizza
 Favorite musician/band: u2
 Favorite movie: lord of the rings
