@@ -1,6 +1,6 @@
-Favorite color: green 
+Favorite color: blue
 Favorite food: pizza
-Favorite musician/band: u2
+Favorite musician/band: coldplay
 Favorite movie: lord of the rings
 Requested grade in the course:100
 
